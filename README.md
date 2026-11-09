@@ -1,7 +1,7 @@
 # CEDT Portfolio: ExternalFiles
 
 > [!CAUTION]
-> This github belongs to **Bunpan Wongkongkatep**, a grade 12 from Darunsikkhalai School (SCiUS Program).
+> This repository belongs to **Bunpan Wongkongkatep**, a grade 12 student from Darunsikkhalai School (SCiUS Program).
 
 This Github is made for storing the *external files* from CEDT TCAS70 Portfolio of Bunpan Wongkongkatep only, including:
 * Videos
