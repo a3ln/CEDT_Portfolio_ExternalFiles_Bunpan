@@ -13,6 +13,7 @@ This Github is made for storing the *external files* from CEDT TCAS70 Portfolio 
 > [!NOTE]
 > This github will be made *private* immediately after TCAS70 admission process ends.
 
-Bunpan Wongkongkatep
 
+Owner\
+Bunpan Wongkongkatep\
 9/11/69
